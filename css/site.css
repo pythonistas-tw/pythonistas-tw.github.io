@@ -25,3 +25,28 @@
 .navbar-collapse .navbar-nav > li > a:hover	{
     color: #32394E;
 }
+
+.yellow_background {
+	background-color: #F3D892;
+}
+
+.blue_background {
+	background-color: #32394E;
+	color: #F3D892;
+}
+
+.deepblue_background {
+	background-color: #151F38;
+	color: #F3D892;
+}
+
+.banner h1 {
+	font-size: 63px;
+	font-weight: 500;
+}
+
+.banner {
+	font-size: 21px;
+	font-weight: 500;
+	padding: 25px;
+}

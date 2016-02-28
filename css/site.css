@@ -1,0 +1,27 @@
+.navbar {
+    background-color: #FFFFFF;
+    border-color: #E7E7E7;
+    font-size: 20px;
+}
+
+.navbar-header {
+	height: 120px;
+}
+
+.navbar-brand,
+.navbar-nav li a {
+	height: 120px;
+	line-height: 90px;
+}
+
+.navbar-logo {
+	padding-top: 15px;
+}
+
+.navbar-collapse .navbar-nav > li > a {
+    color: #151F38;
+}
+
+.navbar-collapse .navbar-nav > li > a:hover	{
+    color: #32394E;
+}
